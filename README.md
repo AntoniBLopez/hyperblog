@@ -1,4 +1,4 @@
-# hyperblog
-Un blog increíble para el curso profesional de Git y Github de Platzi
+# 🤝🏼 Blog del curso profesional de Git y Github de Platzi
+Aprendiendo Git y Github
 
-Mola!
+Curso finalizado 💯
